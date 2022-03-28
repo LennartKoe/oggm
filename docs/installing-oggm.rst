@@ -155,7 +155,7 @@ will install all the packages OGGM needs automatically.
     The `conda-forge`_ channel ensures that the complex package dependencies are
     handled correctly. Subsequent installations or upgrades from the default
     conda channel might brake the chain. We strongly
-    recommend to **always** use the the `conda-forge`_ channel for your
+    recommend to **always** use the `conda-forge`_ channel for your
     installation.
 
 You might consider setting `conda-forge`_  as your
